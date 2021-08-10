@@ -1,6 +1,0 @@
-hello
-<<<<<<< HEAD
-howd there
-touch
-=======
->>>>>>> parent of 24308ec (3 commit)
